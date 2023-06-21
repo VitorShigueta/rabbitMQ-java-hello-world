@@ -16,8 +16,8 @@ This is a basic messaging app using RabbitMQ
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![](./screenshot.jpg)
+![](./screenshots/Send.png)
+![](./screenshots/Recv.png)
 
 ## My process
 
